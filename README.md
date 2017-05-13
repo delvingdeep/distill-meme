@@ -8,10 +8,8 @@ More information about it can be found on [BonzAI](http://bonzai.cs.mtu.edu/)
 Team Distill-meme
 Starring
 
-*Haden*
-
 *Ankitha*
 
-*Deep* (Me);
+*Deep* (Team Lead);
 
 aims at creating as AI solution which are as clear as it looks and as distilled as water seems.
